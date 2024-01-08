@@ -34,4 +34,6 @@ wget -P /root -N --no-check-certificate "https://raw.githubusercontent.com/Fast4
 
 # 三、许可证
 
-[AGPL-3.0](https://github.com/Fast4IO/fly2world/master/LICENSE)
+本项目遵循 [AGPL-3.0](https://github.com/Fast4IO/fly2world/master/LICENSE)协议，在此基础上，所有使用本项目提供服务者都必须在网站首页保留指向本项目的链接
+
+禁止使用本项目进行营利和做其他违法事情，产生的一切后果本项目概不负责
